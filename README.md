@@ -8,7 +8,7 @@
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kalimbinha&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://streak-stats.demolab.com?user=CauaBrandao&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
 </div>
 
 <br>
