@@ -1,21 +1,38 @@
 <h1 align="center">Cauã Brandão</h1>
 
 <p align="center">
-  Junior Full Stack Developer |
-  Technology Enthusiast
+  Junior Full Stack Developer | Quality Management & IT
 </p>
 
-<h3 align="center">GitHub Stats</h3>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CauaBrandao&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <a href="mailto:caua.moreira.brandao@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d6e539a9-b861-4e01-b32c-d9ee430db225">
-</p>
+### 👨🏻‍💻 Sobre mim
+
+Desenvolvedor com um perfil híbrido, unindo **Gestão da Qualidade** e **Tecnologia da Informação**. Atualmente graduando em Sistemas para Internet, aplico uma visão analítica e altamente orientada a detalhes na criação de software. Essa habilidade foi desenvolvida na prática, atuando como ponto focal e garantindo zero não conformidades em auditorias rigorosas (como a ISO/IEC 17025).
+
+* 🎓 Estudante de Sistemas para Internet.
+* 💻 Foco atual em desenvolvimento Full Stack e criação de APIs REST robustas (Java, Spring Boot).
+* 🔍 Busco sempre aplicar o rigor das normas de qualidade à engenharia de software, garantindo processos limpos e sistemas eficientes.
+
+---
+
+<h3 align="center">GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CauaBrandao&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://streak-stats.demolab.com?user=CauaBrandao&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+</div>
+
+<br>
 
 <h3 align="center">Languages</h3>
 
